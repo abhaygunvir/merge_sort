@@ -1,0 +1,2 @@
+any file which we dont want to add to git we can store that here like
+test.js // it will ignore this file
